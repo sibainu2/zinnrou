@@ -61,4 +61,4 @@ async def ready(ctx):
 
 
 
-bot.run("ODY2NjMyODI0OTg2NDAyODM3.YPVYtg.9rbiRwtxwhGqm4ToJ5G1fekwo9s")
+bot.run("")
